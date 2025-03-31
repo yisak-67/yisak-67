@@ -48,5 +48,6 @@
 ---
 
 ## 🌟 **Let's Connect!**  
-📫 Reach me at: [Your Email]  
+📫 Reach me at: yisakzemedu6774@gmail.com
+
 🔗
