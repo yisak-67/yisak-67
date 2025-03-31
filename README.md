@@ -25,6 +25,7 @@
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,6 +49,7 @@
 ---
 
 ## 🌟 **Let's Connect!**  
-📫 Reach me at: yisakzemedu6774@gmail.com
+📫 Reach me at: yisakzemedu6774@gmail.com  
+🔗 LinkedIn: [Yisak Zemedu](https://www.linkedin.com/in/yisak-zemedu-123456789)  
 
-🔗
+💬 *"Code is poetry. Build something amazing today!"*  
