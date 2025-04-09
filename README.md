@@ -43,15 +43,13 @@
 
 ---
 
-
-### 🔥 **Streak Stats**  
-![GitHub Streak](https://streak-stats.demolab.com?user=yisak-67&theme=tokyonight&hide_border=true)  
-
+### 🔥 GitHub Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yisak-67&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌟 **Let's Connect!**  
+## 🌟 Let's Connect!  
 📫 Reach me at: yisakzemedu6774@gmail.com  
-🔗 LinkedIn: [Yisak Zemedu](https://www.linkedin.com/in/yisak-zemedu-123456789)  
+🔗 LinkedIn: [Yisak Zemedu](https://www.linkedin.com/in/yisak-zemedu-123456789)
 
-💬 *"Code is poetry. Build something amazing today!"*  
+💬 *"Code is poetry. Build something amazing today!"*
