@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Frontend & Backend**
@@ -37,19 +37,23 @@
 
 ## 📊 GitHub Stats  
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yisak-67&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)  
+![Yisak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yisak-67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yisak-67&layout=compact&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yisak-67&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🔥 GitHub Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yisak-67&theme=tokyonight&hide_border=true)
+## 🔥 GitHub Streak Stats  
+
+<a href="https://streak-stats.demolab.com?user=yisak-67">
+  <img src="https://streak-stats.demolab.com?user=yisak-67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 ---
 
 ## 🌟 Let's Connect!  
-📫 Reach me at: yisakzemedu6774@gmail.com  
-🔗 LinkedIn: [Yisak Zemedu](https://www.linkedin.com/in/yisak-zemedu-123456789)
+
+📫 Email: yisakzemedu6774@gmail.com  
+🔗 LinkedIn: [Yisak Zemedu](https://www.linkedin.com/in/yisak-zemedu-123456789)  
 
 💬 *"Code is poetry. Build something amazing today!"*
